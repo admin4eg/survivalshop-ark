@@ -1,4 +1,4 @@
-<h1><a href="https://survivalshop.org">SurvivalShop</a> -- monetization service for game servers - сервис монетизации игровых серверов.</h1>
+<a href="https://survivalshop.org">SurvivalShop</a> - monetization service for game servers - сервис монетизации игровых серверов.
 
 
 <h2>ПУБЛИЧНАЯ ВЕРСИЯ ПЛАГИНА ПОДДЕРЖИВАЕТ:</h2>
@@ -32,5 +32,5 @@ cheat sh.shopreload - см. одноименную RCon-команду.
 <ul>
 	<li><a href="https://arkserverapi.com/resources/survivalshop-server-donation-only-russian.41/">ARK API</a></li>
 	<li><a href="https://t.me/arksupport">Telegram</a></li>
-	<li><a href="https://vk.com/hostingrustru"><VK/a></li>
+	<li><a href="https://vk.com/hostingrustru"><VK</a></li>
 <ul>
