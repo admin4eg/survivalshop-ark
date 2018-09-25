@@ -1,10 +1,36 @@
-# Public survivalshop plugin for ARK Survival Evolved
-# Плагин для игрового магазина ARK Survival Evolved
+<a href="https://survivalshop.org">SurvivalShop</a> - monetization service for game servers - сервис монетизации игровых серверов.
 
-# Install plugin, unpack archive to folger \ShooterGame\Binaries\Win64\
-# Для установки распакуйте содержимое в каталог \ShooterGame\Binaries\Win64\
 
-# Oficial page donat shop http://survivalshop.org
-# Официальная страница магазина http://survivalshop.org
+<h2>ПУБЛИЧНАЯ ВЕРСИЯ ПЛАГИНА ПОДДЕРЖИВАЕТ:</h2>
+<ul>
+	<li>выдачу предметов с выбором желаемого количества и качества</li>
+	<li>выдачу предметов сверх размера стека</li>
+	<li>выдачу дино с выбором уровня</li>
+	<li>автоматическую кастрацию/стерилизацию дино при выдаче (опционально)</li>
+	<li>журнал выданных дино и предметов в ShooterGame\Saved\Logs\SurvivalHost.log</li>
+</ul>
 
-# API https://arkserverapi.com/resources/survivalshop-server-donation-only-russian.41/
+ЧАТ-КОМАНДЫ
+------
+/shop - показать список предметов в корзине.<br>
+!магаз или !м - аналог на русском, показать список предметов в корзине.<br>
+/give <номер_товара> - получить предмет или дино купленного в магазине.<br>
+!взять <номер_товара> или !в <номер_товара> - аналог на русском, получить предмет или дино купленного в магазине. <br>
+
+RCON-КОМАНДЫ
+------
+SH.ShopDisable - выключить магазин до следующего рестарта сервера или перезагрузки магазина.<br>
+SH.ShopReload - перезагружает конфиг-файл магазина он-лайн и включает магазин, если все настройки корректны.
+
+КОНСОЛЬНЫЕ КОМАНДЫ (ТОЛЬКО ДЛЯ АДМИНИСТРАТОРА)
+------
+cheat sh.shopdisable - см. одноименную RCon-команду.<br>
+cheat sh.shopreload - см. одноименную RCon-команду.
+
+
+<h2>ССЫЛКИ</h2>
+<ul>
+	<li><a href="https://arkserverapi.com/resources/survivalshop-server-donation-only-russian.41/">ARK API</a></li>
+	<li><a href="https://t.me/arksupport">Telegram</a></li>
+	<li><a href="https://vk.com/hostingrustru"><VK</a></li>
+<ul>
