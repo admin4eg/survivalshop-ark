@@ -32,5 +32,5 @@ cheat sh.shopreload - см. одноименную RCon-команду.
 <ul>
 	<li><a href="https://arkserverapi.com/resources/survivalshop-server-donation-only-russian.41/">ARK API</a></li>
 	<li><a href="https://t.me/arksupport">Telegram</a></li>
-	<li><a href="https://vk.com/hostingrustru"><VK</a></li>
+	<li><a href="https://vk.com/hostingrustru">VK</a></li>
 <ul>
