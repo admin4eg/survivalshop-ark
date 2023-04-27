@@ -1,7 +1,7 @@
 {
 	"FullName": "SurvivalHost",
 	"Description": "SurvivalHost.Org",
-	"Version": 3.0,
-	"MinApiVersion": 3.1,
+	"Version": 3.1,
+	"MinApiVersion": 3.5,
 	"Dependencies": []
 }
